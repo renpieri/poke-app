@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.divImg {
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

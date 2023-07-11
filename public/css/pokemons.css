@@ -1,0 +1,42 @@
+.sectionForm {
+    height: calc(100vh - 30vh);
+}
+
+.divPokemons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divImgPoke {
+    display: flex;
+    height: 150px;
+    width: 60%;
+    justify-content: center;
+    margin: 1em auto;
+    background: lightblue;
+    border-radius: 0.5em 0.5em 0.5em 2em
+}
+
+.pokemonCard {
+    background: white;
+}
+
+.pokemonDivImg{
+    background: #453132;
+}
+
+.pokemonImg {
+
+    margin: auto;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    margin: auto;
+}
+
+
+
